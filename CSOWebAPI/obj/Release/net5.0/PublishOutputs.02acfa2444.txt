@@ -1,0 +1,13 @@
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\CSO.WebAPI.exe
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\CSO.WebAPI.dll
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\CSO.WebAPI.deps.json
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\CSO.WebAPI.runtimeconfig.json
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\CSO.WebAPI.pdb
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\CSO.Domain.dll
+C:\FGV\CSOWebAPI\obj\Release\net5.0\PubTmp\Out\CSO.Domain.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\edumi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\edumi\\.nuget\\packages"
+    ]
+  }
+}

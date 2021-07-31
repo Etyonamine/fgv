@@ -1,0 +1,12 @@
+C:\FGV\CSO.Domain\bin\Release\net5.0\CSO.Domain.deps.json
+C:\FGV\CSO.Domain\bin\Release\net5.0\CSO.Domain.dll
+C:\FGV\CSO.Domain\bin\Release\net5.0\ref\CSO.Domain.dll
+C:\FGV\CSO.Domain\bin\Release\net5.0\CSO.Domain.pdb
+C:\FGV\CSO.Domain\obj\Release\net5.0\CSO.Domain.csproj.AssemblyReference.cache
+C:\FGV\CSO.Domain\obj\Release\net5.0\CSO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\FGV\CSO.Domain\obj\Release\net5.0\CSO.Domain.AssemblyInfoInputs.cache
+C:\FGV\CSO.Domain\obj\Release\net5.0\CSO.Domain.AssemblyInfo.cs
+C:\FGV\CSO.Domain\obj\Release\net5.0\CSO.Domain.csproj.CoreCompileInputs.cache
+C:\FGV\CSO.Domain\obj\Release\net5.0\CSO.Domain.dll
+C:\FGV\CSO.Domain\obj\Release\net5.0\ref\CSO.Domain.dll
+C:\FGV\CSO.Domain\obj\Release\net5.0\CSO.Domain.pdb

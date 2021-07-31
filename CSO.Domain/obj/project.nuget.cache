@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xv9Ml1RoLsPbKc9Nlm8hhm17dxUYGgu11T/tsztiuQNSfqqZVdbY1MCjZOSq0+EZ+eZBL9+Z1t9IM0tAE1rglg==",
+  "dgSpecHash": "Fh+fvOoI1PWiqFsDlxRa9yhGJ8/Q42EuizYUFxfAwCutiQB66TdUpYjiNlVHB1MdPFJ2VYdvLuzl2LTWjPuDFw==",
   "success": true,
-  "projectFilePath": "C:\\FGV\\CSO.Domain\\CSO.Domain.csproj",
+  "projectFilePath": "C:\\FGV\\fgv\\CSO.Domain\\CSO.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

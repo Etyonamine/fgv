@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xseV1aqOq4xNyJqhYbfJ5JMuZ2EKMD8NKxRoqb+GkDtQL2mpScXsLf3rDC0pi4sumK5Ey+R1GeSH6Lhd8X1pjA==",
+  "dgSpecHash": "u4QgWJuQ87gjczKdARlXt2lj9yx3vTcZThyadBiAyWU1Utf1H/pDDaDtJEIPwPuOj/l8mQccloZfuzwqUlK6FA==",
   "success": true,
-  "projectFilePath": "C:\\FGV\\CSO.Domain.Tests\\CSO.Domain.Tests.csproj",
+  "projectFilePath": "C:\\FGV\\fgv\\CSO.Domain.Tests\\CSO.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edumi\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\edumi\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",

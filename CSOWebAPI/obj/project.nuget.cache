@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kXtmczra03UFVQBdTdJP7lh6o1lpzNMDF++T6NZwj2k/LunTXfFSfePPYcTSHnHX6aVnEnvF7tm0pPnuGGodgA==",
+  "dgSpecHash": "useoeljHt7+YLaHqXMyC2KRX76MJvvR3v4OgTlRjl8bbkI8BEhQZEUNWiy1I37i/BETqLtooETs0StB4aumE+w==",
   "success": true,
-  "projectFilePath": "C:\\FGV\\CSOWebAPI\\CSO.WebAPI.csproj",
+  "projectFilePath": "C:\\FGV\\fgv\\CSOWebAPI\\CSO.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edumi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\edumi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

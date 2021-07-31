@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FGV\\CSO.Domain\\CSO.Domain.csproj",
+      "projectUniqueName": "C:\\FGV\\fgv\\CSO.Domain\\CSO.Domain.csproj",
       "projectName": "CSO.Domain",
-      "projectPath": "C:\\FGV\\CSO.Domain\\CSO.Domain.csproj",
+      "projectPath": "C:\\FGV\\fgv\\CSO.Domain\\CSO.Domain.csproj",
       "packagesPath": "C:\\Users\\edumi\\.nuget\\packages\\",
-      "outputPath": "C:\\FGV\\CSO.Domain\\obj\\",
+      "outputPath": "C:\\FGV\\fgv\\CSO.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edumi\\AppData\\Roaming\\NuGet\\NuGet.Config",

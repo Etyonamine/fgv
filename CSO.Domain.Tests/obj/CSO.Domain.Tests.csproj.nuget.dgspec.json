@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FGV\\CSO.Domain.Tests\\CSO.Domain.Tests.csproj": {}
+    "C:\\FGV\\fgv\\CSO.Domain.Tests\\CSO.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\FGV\\CSO.Domain.Tests\\CSO.Domain.Tests.csproj": {
+    "C:\\FGV\\fgv\\CSO.Domain.Tests\\CSO.Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FGV\\CSO.Domain.Tests\\CSO.Domain.Tests.csproj",
+        "projectUniqueName": "C:\\FGV\\fgv\\CSO.Domain.Tests\\CSO.Domain.Tests.csproj",
         "projectName": "CSO.Domain.Tests",
-        "projectPath": "C:\\FGV\\CSO.Domain.Tests\\CSO.Domain.Tests.csproj",
+        "projectPath": "C:\\FGV\\fgv\\CSO.Domain.Tests\\CSO.Domain.Tests.csproj",
         "packagesPath": "C:\\Users\\edumi\\.nuget\\packages\\",
-        "outputPath": "C:\\FGV\\CSO.Domain.Tests\\obj\\",
+        "outputPath": "C:\\FGV\\fgv\\CSO.Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\FGV\\CSO.Domain\\CSO.Domain.csproj": {
-                "projectPath": "C:\\FGV\\CSO.Domain\\CSO.Domain.csproj"
+              "C:\\FGV\\fgv\\CSO.Domain\\CSO.Domain.csproj": {
+                "projectPath": "C:\\FGV\\fgv\\CSO.Domain\\CSO.Domain.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "C:\\FGV\\CSO.Domain\\CSO.Domain.csproj": {
+    "C:\\FGV\\fgv\\CSO.Domain\\CSO.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FGV\\CSO.Domain\\CSO.Domain.csproj",
+        "projectUniqueName": "C:\\FGV\\fgv\\CSO.Domain\\CSO.Domain.csproj",
         "projectName": "CSO.Domain",
-        "projectPath": "C:\\FGV\\CSO.Domain\\CSO.Domain.csproj",
+        "projectPath": "C:\\FGV\\fgv\\CSO.Domain\\CSO.Domain.csproj",
         "packagesPath": "C:\\Users\\edumi\\.nuget\\packages\\",
-        "outputPath": "C:\\FGV\\CSO.Domain\\obj\\",
+        "outputPath": "C:\\FGV\\fgv\\CSO.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
